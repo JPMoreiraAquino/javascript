@@ -7,3 +7,5 @@ const getDay = date.getDate();
 console.log(getYear);
 console.log(getMonth + 1);
 console.log(getDay + 1 );
+
+jpewe
