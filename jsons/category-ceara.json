@@ -1,0 +1,75 @@
+{
+  "category": "Ceará",
+  "slug": "ceara",
+  "countOfFollowers": 820,
+  "categoryColor": "#181818",
+  "abbreviation": "CEA",
+  "length": 1,
+  "posts": [
+    {
+      "original": false,
+      "title": [
+        "PINTURA DO FABINHO! :art::fire: #futebol #arteforadomuseu #gol #golaço #puskas #puskasaward #momentodojogador"
+      ],
+      "isUserVerified": false,
+      "isQuoteStatus": false,
+      "media": [
+        {
+          "mediaUrl": "https://ddi3mf3j0mb8k.cloudfront.net/videos/tiktok/1656969582281-87eccef1-b917-4b6a-9e80-9d99cb6a45b0.mp4",
+          "isVideo": true,
+          "width": 576,
+          "height": 1028
+        }
+      ],
+      "urls": [],
+      "mentions": [],
+      "hashtags": [],
+      "categories": [
+        {
+          "name": "Ceará",
+          "slug": "ceara",
+          "categoryColor": "#181818"
+        }
+      ],
+      "isALiveStream": false,
+      "amountOfLikes": 0,
+      "amountOfComments": 0,
+      "shares": 0,
+      "views": 0,
+      "bookmarks": 0,
+      "_id": "62c359704b2ba6906cf02e09",
+      "date": "2021-11-09T18:41:24.000Z",
+      "author": "Ceará Sporting Club",
+      "link": "https://www.tiktok.com/@cearasc/video/7019411920415411462",
+      "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@cearasc/video/7019411920415411462\" data-video-id=\"7019411920415411462\" data-embed-from=\"oembed\" style=\"max-width: 605px;min-width: 325px;\" > <section> <a target=\"_blank\" title=\"@cearasc\" href=\"https://www.tiktok.com/@cearasc?refer=embed\">@cearasc</a> <p>PINTURA DO FABINHO! :art::fire: <a title=\"futebol\" target=\"_blank\" href=\"https://www.tiktok.com/tag/futebol\">#futebol</a> <a title=\"arteforadomuseu\" target=\"_blank\" href=\"https://www.tiktok.com/tag/arteforadomuseu\">#arteforadomuseu</a> <a title=\"gol\" target=\"_blank\" href=\"https://www.tiktok.com/tag/gol\">#gol</a> <a title=\"golaço\" target=\"_blank\" href=\"https://www.tiktok.com/tag/gola%C3%A7o\">#golaço</a> <a title=\"puskas\" target=\"_blank\" href=\"https://www.tiktok.com/tag/puskas\">#puskas</a> <a title=\"puskasaward\" target=\"_blank\" href=\"https://www.tiktok.com/tag/puskasaward\">#puskasaward</a> <a title=\"momentodojogador\" target=\"_blank\" href=\"https://www.tiktok.com/tag/momentodojogador\">#momentodojogador</a></p> <a target=\"_blank\" title=\"♬ Shout Out (No Vox) - Chris Alan Lee\" href=\"https://www.tiktok.com/music/Shout-Out-No-Vox-6777228784404793346?refer=embed\">♬ Shout Out (No Vox) - Chris Alan Lee</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+      "id": 1068350206,
+      "postType": "tiktok",
+      "slug": "ceara",
+      "category": "Ceará",
+      "categoryColor": "#181818",
+      "content": null,
+      "secondTitle": "Ceará no tiktok",
+      "updatedAt": "2022-07-04T21:19:44.238Z",
+      "__v": 0,
+      "image": {
+        "mediaUrl": "https://ddi3mf3j0mb8k.cloudfront.net/videos/tiktok/1656969582281-87eccef1-b917-4b6a-9e80-9d99cb6a45b0.mp4",
+        "isVideo": true,
+        "width": 576,
+        "height": 1028
+      },
+      "isPinned": false,
+      "isAlreadyLiked": false,
+      "bookmarked": false
+    }
+  ],
+  "feedVersion": "afc026da-9f76-4ae2-b330-d71b497bc28b",
+  "stats": {
+    "wins": 3,
+    "lost": 4,
+    "loss": 4,
+    "draw": 9,
+    "group": "Série A",
+    "position": 17
+  },
+  "liveMatchId": "sr:sport_event:34115255"
+}
